@@ -28,7 +28,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background:url(/assets/img/pexels-anna-tis-6530100.jpg);
+    background:url(assets/img/pexels-anna-tis-6530100.jpg);
     background-size: cover;
    
 }

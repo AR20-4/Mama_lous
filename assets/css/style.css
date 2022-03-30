@@ -28,7 +28,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(assets/img/pexels-anna-tis-6530100.jpg);
+    background: url(/assets/img/pexels-anna-tis-6530100.jpg);
     background-size: cover;
    
 }
@@ -283,7 +283,7 @@ section{
 
 
 .reviews{
-    background: url(assets/img/pexels-fauxels-3184183.jpg);
+    background: url(/assets/img/pexels-fauxels-3184183.jpg);
     background-size: cover;
 }
 
@@ -347,7 +347,7 @@ section{
 }
 
 .contact{
-    background: url(assets/img/pexels-kristina-paukshtite-1998635.jpg);
+    background: url(/assets/img/pexels-kristina-paukshtite-1998635.jpg);
     background-size: cover;
 }
 

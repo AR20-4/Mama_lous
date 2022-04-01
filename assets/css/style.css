@@ -28,7 +28,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/assets/img/pexels-anna-tis-6530100.jpg);
+    background-image: url(https://www.pexels.com/photo/fixed-tables-and-chairs-2728186/);
     background-size: cover; 
     background-color: #111;
 }
